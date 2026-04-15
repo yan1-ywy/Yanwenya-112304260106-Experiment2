@@ -1,3 +1,4 @@
+
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
@@ -173,3 +174,4 @@ word2vec-nlp-tutorial/
 - `src/`：存放源代码文件
 - `README.md`：实验报告
 - `submission.csv`：最终生成的提交文件
+# Yanwenya-112304260106-Experiment2
