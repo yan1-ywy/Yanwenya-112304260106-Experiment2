@@ -1,4 +1,3 @@
-
 # 机器学习实验：基于 Word2Vec 的情感预测
 
 ## 1. 学生信息
@@ -27,8 +26,8 @@
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial
 - **提交日期**：2026-04-15
 
-- **GitHub 仓库地址**：[GitHub仓库地址]
-- **GitHub README 地址**：[GitHub README地址]
+- **GitHub 仓库地址**：https://github.com/yan1-ywy/Yanwenya-112304260106-Experiment2
+- **GitHub README 地址**：https://github.com/yan1-ywy/Yanwenya-112304260106-Experiment2/blob/main/README.md
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到“姓名 + 学号”，否则无效。
 
@@ -174,4 +173,3 @@ word2vec-nlp-tutorial/
 - `src/`：存放源代码文件
 - `README.md`：实验报告
 - `submission.csv`：最终生成的提交文件
-# Yanwenya-112304260106-Experiment2
